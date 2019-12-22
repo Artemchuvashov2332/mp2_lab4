@@ -1,1 +1,1 @@
-# mp2_lab4
+﻿mp2-lab4-polynomial
